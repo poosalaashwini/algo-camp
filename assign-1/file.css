@@ -1,0 +1,83 @@
+.logo {
+  width: 120px;
+  
+}
+.email_container{
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+.logo_container {
+  background-color: white;
+  position: fixed;
+  height: 50px;
+  width: 100%;
+}
+.title {
+  font-size: xx-large;
+}
+
+.header {
+  padding-left: 200px;
+}
+.body {
+  padding-left: 200px;
+  padding-right: 200px;
+
+  color: #515357;
+  background: #f9f9f9;
+}
+.pronounce_option_line {
+  display: flex;
+  color: #83868c;
+}
+
+.paperclip {
+  width: 20px;
+}
+
+.text_area_experience {
+  width: 800px;
+  height: 50px;
+  resize: vertical;
+}
+select {
+  width: 800px;
+  height: 40px;
+}
+.university:hover {
+  background: #83868c;
+}
+.experience:hover {
+  background: #83868c;
+}
+.relevant:hover {
+  background: #83868c;
+}
+
+.text_favorite_project {
+  width: 800px;
+  height: 100px;
+  resize: vertical;
+}
+.work_at_Palantir {
+  width: 800px;
+  height: 100px;
+  resize: vertical;
+}
+.additional_info {
+  width: 800px;
+  height: 100px;
+  resize: vertical;
+}
+.gender:hover {
+  background: #83868c;
+}
+.race:hover {
+  background: #83868c;
+}
+
+.preferred_name_class {
+  width: 500px;
+  height: 42px;
+}
